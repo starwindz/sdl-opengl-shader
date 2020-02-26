@@ -1,0 +1,164 @@
+# depslib dependency file v1.0
+1580900821 source:c:\codeblocks\test\mycode\mycode.cpp
+	<stdio.h>
+	<SDL.h>
+	"LTexture.h"
+	"LShaderProgram.h"
+
+1580838159 source:c:\codeblocks\test\mycode\ltexture.cpp
+	<stdio.h>
+	<string>
+	"LTexture.h"
+
+1580838148 c:\codeblocks\test\mycode\ltexture.h
+	"LOpenGL.h"
+	<stdio.h>
+	<string.h>
+	<fstream>
+	<SDL.h>
+
+1580842996 c:\codeblocks\test\mycode\lopengl.h
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<stdio.h>
+	<SDL_opengl.h>
+
+1580838154 source:c:\codeblocks\test\mycode\lshaderprogram.cpp
+	"LShaderProgram.h"
+	<fstream>
+
+1580838201 c:\codeblocks\test\mycode\lshaderprogram.h
+	"LOpenGL.h"
+	<stdio.h>
+	<string>
+
+1357021339 c:\codeblocks\test\mycode\lplainpolygonprogram2d.h
+	"LShaderProgram.h"
+
+1580837118 source:c:\codeblocks\test\mycode\lplainpolygonprogram2d.cpp
+	"LPlainPolygonProgram2D.h"
+
+1581328112 source:c:\codeblocks\test\src\video\lshaderprogram.cpp
+	"LShaderProgram.h"
+	<fstream>
+
+1581328122 c:\codeblocks\test\src\video\lshaderprogram.h
+	"LOpenGL.h"
+	<stdio.h>
+	<string>
+
+1580842996 c:\codeblocks\test\src\video\lopengl.h
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<stdio.h>
+	<SDL_opengl.h>
+
+1581255907 source:c:\codeblocks\test\src\video\ltexture.cpp
+	<stdio.h>
+	<string>
+	"LTexture.h"
+
+1581236172 c:\codeblocks\test\src\video\ltexture.h
+	"LOpenGL.h"
+	<stdio.h>
+	<string.h>
+	<fstream>
+	<SDL.h>
+
+1581815839 source:c:\codeblocks\test\src\video\mycode.cpp
+	<stdio.h>
+	<SDL.h>
+	"LTexture.h"
+	"LShaderProgram.h"
+
+1582126360 source:c:\codeblocks\test\crt-shader-master\src\video\lshaderprogram.cpp
+	"LShaderProgram.h"
+	<fstream>
+
+1582126360 c:\codeblocks\test\crt-shader-master\src\video\lshaderprogram.h
+	"LOpenGL.h"
+	<stdio.h>
+	<string>
+
+1582126360 c:\codeblocks\test\crt-shader-master\src\video\lopengl.h
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<stdio.h>
+	<SDL_opengl.h>
+
+1582209461 source:c:\codeblocks\test\crt-shader-master\src\video\ltexture.cpp
+	<stdio.h>
+	<string>
+	"LTexture.h"
+
+1582204218 c:\codeblocks\test\crt-shader-master\src\video\ltexture.h
+	"LOpenGL.h"
+	<stdio.h>
+	<string.h>
+	<fstream>
+	<SDL.h>
+
+1582209592 source:c:\codeblocks\test\crt-shader-master\src\video\mycode.cpp
+	<stdio.h>
+	<string>
+	<fstream>
+	<streambuf>
+	<SDL.h>
+	"LTexture.h"
+	"LShaderProgram.h"
+
+1582368210 source:c:\codeblocks\test\crt-shader-master\src_sdl_gl\video\lshaderprogram.cpp
+	"LShaderProgram.h"
+	<fstream>
+
+1582368245 c:\codeblocks\test\crt-shader-master\src_sdl_gl\video\lshaderprogram.h
+	"LOpenGL.h"
+	<stdio.h>
+	<string>
+
+1582287693 c:\codeblocks\test\crt-shader-master\src_sdl_gl\video\lopengl.h
+	<GL/glew.h>
+	<SDL_opengl.h>
+
+1582285426 source:c:\codeblocks\test\crt-shader-master\src_sdl_gl\video\ltexture.cpp
+	<stdio.h>
+	<string>
+	"LTexture.h"
+
+1582285425 c:\codeblocks\test\crt-shader-master\src_sdl_gl\video\ltexture.h
+	"LOpenGL.h"
+	<stdio.h>
+	<string.h>
+	<fstream>
+	<SDL.h>
+
+1582287494 source:c:\codeblocks\test\crt-shader-master\src_sdl_gl\video\mycode.cpp
+	<stdio.h>
+	<string>
+	<fstream>
+	<streambuf>
+	<SDL.h>
+	"LTexture.h"
+	"LShaderProgram.h"
+
+1582628868 source:c:\codeblocks\test\crt-shader-master\src_sdl_gl\video\main.cpp
+	"main.h"
+
+1582287891 c:\codeblocks\test\crt-shader-master\src_sdl_gl\video\main.h
+	<stdio.h>
+	<string>
+	<fstream>
+	<streambuf>
+	<SDL.h>
+	"LTexture.h"
+	"LShaderProgram.h"
+
